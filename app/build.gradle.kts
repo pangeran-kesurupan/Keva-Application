@@ -3,11 +3,11 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 android {
-    namespace = "id.antasari.p5datasave_230104040122"
+    namespace = "id.antasari.p5datasave_230104040080"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "id.antasari.p5datasave_230104040122"
+        applicationId = "id.antasari.p5datasave_230104040080"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

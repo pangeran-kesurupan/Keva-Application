@@ -1,4 +1,4 @@
-package id.antasari.p5datasave_230104040122.navigation
+package id.antasari.p5datasave_230104040080.navigation
 
 import androidx.navigation.NavController
 import androidx.navigation.NavGraph.Companion.findStartDestination

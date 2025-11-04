@@ -1,4 +1,4 @@
-package id.antasari.p5datasave_230104040122.ui.theme.components
+package id.antasari.p5datasave_230104040080.ui.theme.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable

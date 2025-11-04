@@ -1,4 +1,4 @@
-package id.antasari.p5datasave_230104040122
+package id.antasari.p5datasave_230104040080
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("id.antasari.p5datasave_230104040122", appContext.packageName)
+        assertEquals("id.antasari.p5datasave_230104040080", appContext.packageName)
     }
 }
